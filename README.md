@@ -17,3 +17,4 @@ Please visit this [official link](https://github.com/joyent/node/wiki/Installing
 ### Enjoy!
 
 Now you should be able to run `node` and `npm` (package manager) in you command line.
+ 
